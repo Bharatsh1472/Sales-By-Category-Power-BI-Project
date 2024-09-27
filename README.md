@@ -2,10 +2,6 @@
 <br>
 Sales By Category Dashboard.
 <br>
-[Sales Dataset.xlsx](https://github.com/user-attachments/files/16409894/Walmart.Sales.Data.xlsx)
-<br>
-[sales by category dashboard.pdf](https://github.com/user-attachments/files/16409977/sales.by.category.dashboard.pdf)
-<br>
 • Utilized a sample dataset from Kaggle to retrieve relevant sales information.
 <br>
 • Cleaned and transformed Walmart sales data, ensuring data accuracy and consistency for analysis. This included
